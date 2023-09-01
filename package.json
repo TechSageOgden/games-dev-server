@@ -1,7 +1,7 @@
 {
-  "name": "color-puzzle",
+  "name": "games-dev-server",
   "version": "0.0.1",
-  "description": "prototype build for web/mobile game solving puzzles with colors",
+  "description": "server environment dedicated to prototyping and developing web games",
   "main": "bin/www",
   "scripts": {
     "test": "node test.yml",
