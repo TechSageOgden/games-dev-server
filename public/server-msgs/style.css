@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Noto+Sans+JP:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body#home {
+    background-color: #333;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding: 0px;
+    margin: 0px;
+    color: #fff;
+    width: 100vw;
+    height: 100vh;
+}
+
+div.container {
+    background-image: linear-gradient(to bottom right, #896060, #290303);
+    color: aquamarine;
+}
+
+div.container#welcome {
+    margin-top: 5rem;
+    background-image: linear-gradient(to bottom right, #a8a5a5, #f5b11e);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #290303;
+}
+div.container#server {
+    height: 60vh;
+}
+
+div.container#server div#super-head {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 2rem;
+    padding: 0px 20px;
+    height: 100%;
+}
+
+div.container#server div#super-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0px 20px;
+    height: 100%;
+    margin: 2rem;
+}
